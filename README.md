@@ -1,5 +1,9 @@
 # underwater-robotics-resources
 
+## Repo Rules
+
+	Anyone can add stuff, but please keep it organzied.
+
 ## videos
 
 	NOAA Glider basics and Hurricane modeling 
